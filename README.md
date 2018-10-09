@@ -8,7 +8,7 @@ Quick Start
 
 `docker-compose up`
 
-Point your browser to `http://127.0.0.1:8080`
+Point your browser to `http://127.0.0.1:4300`
 
 License
 ---
